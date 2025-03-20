@@ -1,0 +1,16 @@
+body{
+    background-color: bisque;
+    margin: 50px;
+}
+p {
+   background-color: lightcoral;
+   padding: 10px;
+   border: 2px solid chartreuse;
+   border-radius: 13%;
+   font-size: 30px
+}
+div {
+    color: darkolivegreen;
+    text-align: center;
+    width: 80%;
+}
